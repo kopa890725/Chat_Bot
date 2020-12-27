@@ -9,7 +9,7 @@
 ## 使用說明
 
 ## FSM
-![](https://i.imgur.com/GMrkfDT.png)
+![](https://raw.githubusercontent.com/kopa890725/Chat_Bot/main/fsm.png)
 
 ### state說明
 - lobby: 大廳，輸入1或2讓你進入不同功能
